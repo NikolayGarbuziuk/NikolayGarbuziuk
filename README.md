@@ -3,9 +3,9 @@
 ___
 <h3 align="left">What I Do: </h3>
 
-🧑‍💼 &nbsp;Test Management: test processes setup and improvement
+🧑‍💼 &nbsp;Test Management
 
-🦾 &nbsp;Test Automation: Web, API, Mobile
+🦾 &nbsp;Test Automation (Web, API, Mobile)
 
 ✅ &nbsp;Test Reporting & Notification
 
