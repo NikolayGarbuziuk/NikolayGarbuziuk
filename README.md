@@ -25,10 +25,10 @@ ___
 
 ___
 
-<h3 align="left">:email:	Contact Me: </h3>
-<h4 align="left">Telegram: https://t.me/NikolayGarbuziuk </h4>
-<h4 align="left">E-mail: nikolay.garbuziuk@gmail.com </h4>
-<h4 align="left">LinkedIn: https://www.linkedin.com/in/nikolay-garbuziuk/ </h4>
+<h3 align="left">🤙	Contact Me: </h3>
+<h4 align="left">Telegram: <a href="https://t.me/NikolayGarbuziuk">NikolayGarbuziuk</a>  </h4>
+<h4 align="left">LinkedIn: <a href="https://www.linkedin.com/in/nikolay-garbuziuk/">nikolay-garbuziuk</a>  </h4>
+<h4 align="left">E-mail: <a href="mailto:nikolay.garbuziuk@gmail.com">nikolay.garbuziuk@gmail.com</a>  </h4>
 ___
 
 ### Let's do great things together 🤲
