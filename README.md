@@ -5,7 +5,7 @@ ___
 
 🧑‍💼 &nbsp;Test Management: test processes setup and improvement
 
-🦾 &nbsp;Test code: Web, API, Mobile Tests Automation
+🦾 &nbsp;Test Automation: Web, API, Mobile
 
 ✅ &nbsp;Test Reporting & Notification
 
