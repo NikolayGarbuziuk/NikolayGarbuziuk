@@ -1,3 +1,5 @@
+>Testing leads to failure, and failure leads to understanding. ~ Burt Rutan
+
 ### Hi there 👋
 ### Welcome to my Software Quality Assureance Laboratory 🥽
 ___
